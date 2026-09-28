@@ -1,0 +1,39 @@
+name: Feature request
+description: Suggest an improvement or a new capability.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Problem
+      description: Describe the problem you have today. Name the current, observable behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Proposed behavior
+      description: Describe what you want to happen instead, and why it solves the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Example
+      description: Show a concrete example, such as a command, a config snippet, or a call site.
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      description: The release version, tag, or commit hash you are using, if relevant.
+    validations:
+      required: false
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Operating system, architecture, or other context, if relevant.
+    validations:
+      required: false

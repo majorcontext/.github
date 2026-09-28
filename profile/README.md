@@ -1,0 +1,25 @@
+```text
+███╗   ███╗ █████╗      ██╗ ██████╗ ██████╗
+████╗ ████║██╔══██╗     ██║██╔═══██╗██╔══██╗
+██╔████╔██║███████║     ██║██║   ██║██████╔╝
+██║╚██╔╝██║██╔══██║██   ██║██║   ██║██╔══██╗
+██║ ╚═╝ ██║██║  ██║╚█████╔╝╚██████╔╝██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═╝
+
+ ██████╗ ██████╗ ███╗   ██╗████████╗███████╗██╗  ██╗████████╗
+██╔════╝██╔═══██╗████╗  ██║╚══██╔══╝██╔════╝╚██╗██╔╝╚══██╔══╝
+██║     ██║   ██║██╔██╗ ██║   ██║   █████╗   ╚███╔╝    ██║
+██║     ██║   ██║██║╚██╗██║   ██║   ██╔══╝   ██╔██╗    ██║
+╚██████╗╚██████╔╝██║ ╚████║   ██║   ███████╗██╔╝ ██╗   ██║
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝   ╚═╝
+```
+
+| Project | Description |
+|---|---|
+| [Moat](https://github.com/majorcontext/moat) | Run agents in containers with credential injection and full observability. |
+| [Keep](https://github.com/majorcontext/keep) | API-level policy engine for AI agents. Deny, redact, or log before the call reaches the API. |
+| [Gatekeeper](https://github.com/majorcontext/gatekeeper) | A credential-injecting TLS-intercepting proxy. |
+| [Harness](https://github.com/majorcontext/harness) | A fast, extensible, composable agent harness in Go. |
+| [Bailey](https://github.com/majorcontext/bailey) | Durable, credential-isolated development environments for AI coding agents. |
+
+MIT licensed.
