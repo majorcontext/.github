@@ -22,4 +22,10 @@
 | [Harness](https://github.com/majorcontext/harness) | A fast, extensible, composable agent harness in Go. |
 | [Bailey](https://github.com/majorcontext/bailey) | Durable, credential-isolated development environments for AI coding agents. |
 
+### Sponsored by
+
+<a href="https://thegp.com"><picture><source media="(prefers-color-scheme: dark)" srcset="sponsors/thegp-dark.svg"><img alt="TheGP" src="sponsors/thegp-light.svg" height="28"></picture></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://meetneptune.com"><picture><source media="(prefers-color-scheme: dark)" srcset="sponsors/neptune-dark.svg"><img alt="Neptune" src="sponsors/neptune-light.svg" height="28"></picture></a>
+
 MIT licensed.
